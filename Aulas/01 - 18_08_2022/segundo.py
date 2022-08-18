@@ -1,3 +1,7 @@
+# Obter três notas, calcular e exibir a média aritmética e a média ponderada.
+# Pesos: nota 1 (20), nota 2 (20) e nota 3 (40).
+
+
 nota1 = int(input("Nota 1: "))
 nota2 = int(input("Nota 2: "))
 nota3 = int(input("Nota 3: "))

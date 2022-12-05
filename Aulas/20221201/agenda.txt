@@ -1,0 +1,8 @@
+primeiro;primeiro@ifpb
+segundo;segundo@ifpb
+terceiro;terceiro@ifpb
+quarto;quarto@ifpb
+quinto;quinto@ifpb
+sexto;sexto@ifpb
+setimo;setimo@ifpb
+oitavo;oitavo@ifpb
